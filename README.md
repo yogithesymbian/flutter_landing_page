@@ -1,6 +1,7 @@
 # flutter_landing_page
 
-A new Flutter project.
+just landing page sederhana
+![Flutter Landing Page Sederhana](/assets/images/screenshot.png?raw=true "Flutter Landing Page Sederhana")
 
 ## Getting Started
 
